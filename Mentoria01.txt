@@ -1,0 +1,79 @@
+Alan Richardson (Automação)
+- https://www.linkedin.com/in/eviltester/?originalSubdomain=uk
+
+* Angie Jones     (Automação)
+- https://angiejones.tech/
+--https://angiejones.tech/10-portfolio-projects-for-automation-engineers/
+--https://angiejones.tech/in-sprint-test-automation/
+
+Elias Nogueira  (Automação) port
+- https://imasters.com.br/perfil/eliasnogueira
+
+Mauricio Aniche (Automação) port
+- https://www.linkedin.com/in/mauricioaniche/
+
+Rafaela Azevedo (Automação de Testes)
+- https://azevedorafaela.com/2014/03/19/steps-to-implement-a-automation-process/
+
+Walmyr Filho    (Automação) port
+- https://walmyrfilho.com/
+
+
+#perguntaParaOLucas
+Qual o ponto em sua trajetoria, que hoje, com sua experiencia, indicaria para não realizarou que realizaria de uma forma faz efetiva?
+
+--- --- ---
+
+BIOGRAFIA - ANGIE JONES   (Automação)
+
+Angie Jones é vice-presidente global de relações com desenvolvedores da TBD, a nova unidade de negócios da Block focada em tecnologias descentralizadas. Ela é uma professora premiada e palestrante internacional que compartilha sua riqueza de conhecimento em empresas de software e conferências em todo o mundo. Como Master Inventor, Angie é conhecida por seu estilo de pensamento inovador e pronto para uso, que resultou em mais de 25 invenções patenteadas nas áreas de metaversos, software de colaboração, redes sociais, planeta mais inteligente e processos de desenvolvimento de software.
+
+Angie Jones é engenheira de software e arquiteta de automação especializada em teste e desenvolvimento de software.
+
+Jones contribuiu para várias ferramentas e bibliotecas de teste de código aberto, incluindo Selenium e Appium.
+
+CARREIRA
+Angie Jones começou sua carreira em 2003 na IBM em Research Triangle Park, Carolina do Norte, onde trabalhou como engenheira de software por 9 anos.[1]
+
+Em 2007, Jones se tornou o CEO da Diva Chix, um jogo de moda online "onde meninas e mulheres adolescentes aprendem a se destacar em áreas tecnológicas, bem como aprender outras lições importantes da vida, como administrar um negócio e trabalhar em equipe, enquanto competem na moda. batalhas". O jogo ainda está ativo e Jones continua sendo o CEO e único desenvolvedor.[5]
+
+Em 2014, ela se tornou professora adjunta no Durham Technical Community College, onde ministrou cursos de programação Java até 2017.[3]
+
+Em 2015, ela ingressou na LexisNexis como Engenheira de Automação Consultiva.[3]
+
+Em 2016, ela começou a falar em conferências de software em todo o mundo e se tornou uma palestrante internacional em 2017.
+
+Em 2017, ela se mudou para a Califórnia para trabalhar no Twitter[6] como engenheira de automação sênior.[7]
+
+Em 2018, Jones ingressou na Applitools, uma plataforma visual de teste e monitoramento com inteligência artificial, para iniciar sua iniciativa de relações com desenvolvedores. Como parte de sua função na Applitools, ela criou a Test Automation University,[8] uma plataforma online que oferece cursos gratuitos sobre programação e assuntos de automação de teste ministrados por ela e outros especialistas notáveis do setor.
+
+Em 2021, ela ingressou na Block como chefe de relações com desenvolvedores de sua plataforma de troca descentralizada de código aberto, TBD54566975.[9]
+
+Jones detém 26 invenções patenteadas nos Estados Unidos da América e no Japão.[10]
+
+Jones é autor de capítulos em vários livros de engenharia de software, incluindo The Digital Quality Handbook: Guide for Achieving Continuous Quality in a DevOps Reality,[11] DevOps: Implementing Cultural Change,[12] e 97 Things Every Java Programmer Should Know.
+
+REFERÊNCIA
+  "Mulheres na tecnologia: Angie Jones" . Prefeitura por hashnode. Acesso em 30 de março de 2021.
+  "Angie Jones se torna a primeira campeã negra de Java". AfroTech. Coleen Williams. 7 de julho de 2020. Recuperado em 30 de março de 2021.
+  "Angie Jones, Master Inventor: Black History in the Making" . Revista Espetacular. 15 de fevereiro de 2017. Acessado em 30 de março de 2021.
+  "Departamento homenageia dois ex-alunos 'estrelas em ascensão'" . CSC News. Acesso em 25 de abril de 2021.
+  "The Tempest Interview: A engenheira de software Angie Jones fala sobre tecnologia, cultura negra e Diva Chix" . A tempestade. 30 de março de 2016. Acessado em 25 de abril de 2021.
+  "Angie Jones do Twitter - o presente e o futuro da inovação". TechChill. 4 de janeiro de 2018. Acessado em 31 de março de 2021.
+  "Bridging the Gender Gap: Female STEAM Heroes Inspiring the Next Generation" . Ozobot. com. 20 de março de 2018. Acessado em 30 de março de 2021.
+  "A Universidade de Automação de Testes, a maior plataforma educacional gratuita de testes on-line do mundo, ultrapassa a marca de 75.000 alunos". Cision PR Newswire (comunicado de imprensa). Acesso em 30 de março de 2021.
+  "Square lança protocolo de detalhamento de papel branco para uma troca de Bitcoin descentralizada" . www.yahoo.com. Recuperado 2022-01-05.
+  "Patentes emitidas por Angie Jones" . Google. Acesso em 30 de março de 2021.
+  Manual de qualidade digital: guia para obter qualidade contínua em uma realidade de DevOps. ISBN 0692885994.
+  "DevOps: Implementando Mudança Cultural". DZone. Acesso em 1 de maio de 2021.
+  97 coisas que todo programador Java deve saber: sabedoria coletiva dos especialistas. ISBN 1491952695.
+  "A engenheira de software Angie Jones fala sobre tecnologia, cultura negra e Diva Chix" . A tempestade. 30 de março de 2016. Acessado em 31 de março de 2021.
+  "TechGirlz apresenta meninas ao campo da tecnologia" . O News & Observer. 30 de março de 2016. Recuperado em 1 de maio de 2021.
+
+--
+Perguntas:
+Na estrategia da automação, no metodo ágil e com o tempo escaso, como aplicar as abordagem híbrida e a camada de serviços da pirâmide de automação, os conceitos são claros a ponto de aplica-los na pratica? Qual a analise a ser realizada em uma aplicação, exemplo, da loginha da mentoria?
+
+R: Abordagem híbrida: é Realizar a automação direto ao 'ponto' e algumus passos são desnecessarios, exemplo a exclusão de produtos, acessa-se direto a tela do carrinho e realiza a exclusão, não sendo necessario navegação como é realizada na Interface do Usuário(UI). 
+
+Camada de serviços da pirâmide de automação: Na camada mais básica da pirâmide estão os testes unitários; na intermediária os testes de integração e no topo os testes de interface do usuário (UI) (https://www.primecontrol.com.br/piramide-de-teste-estrategia-de-automacao-de-testes-em-tres-niveis/)

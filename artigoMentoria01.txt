@@ -1,4 +1,3 @@
-Resumo 
 Angie Jones     (Automação)
 - https://angiejones.tech/in-sprint-test-automation/
 
@@ -6,14 +5,14 @@ Angie Jones     (Automação)
 
 No planejamento da Sprint em 02 semanas, as equipes de desenvolvimento e testes, podem sair do planejado.
 
-Gerando risco e uma dívida técnica a longo prazo no projeto. Levando em conta os testes de regressão de outros recursos. Necessitanso assim da tarefa dos testes automatizados, sendo aplicados na mesma sprint e não postergando para o backlog como algo a ser feito.
+Gerando risco e uma dívida técnica a longo prazo no projeto. Levando em conta os testes de regressão de outros recursos. Necessitando assim da tarefa dos testes automatizados, sendo aplicados na mesma sprint e não postergando para o backlog como algo a ser feito.
 
-A equipe trabalha sempre com um produto sem os teste de regreção consistente e os engenheiros de automação sempre trabalhando nas dívidas tecnicas da sprints anteriores.
+A equipe trabalha sempre com um produto sem os teste de regressão consistente e os engenheiros de automação sempre trabalhando nas dívidas técnicas das sprints anteriores.
 
-Para se trabalhar com o tempo tão apertado temos três estrategias para ajudar a realizar a automação de testes e realizar os teste de regreção na sprint.
+Para se trabalhar com o tempo tão apertado temos três estratégias para ajudar a realizar a automação de testes e realizar os teste de regressão na sprint.
 
 1 - Colaboração de toda a equipe
-Os automatizadores deve colaborar com toda a equipe, de negócio, desenvolvedores e testadores.
+Os automatizadores devem colaborar com toda a equipe, de negócio, desenvolvedores e testadores.
 
 Negócio
 - Selecionar o que automatizar (Não deve automatizar tudo)
@@ -24,8 +23,8 @@ Para garantir que está automatizando as coisas certas, algumas informações po
 * Observar padrões úteis usados anteriores;
 
 Desenvolvedor
-- Compartilhar e orienta-los sobre a necessidade da automatização do teste  
-- Contrução do código, APIs e identificadores de elementos da interface do usuário a falicitar na automação. 
+- Compartilhar e orientá-los sobre a necessidade da automatização do teste  
+- Construção do código, APIs e identificadores de elementos da interface do usuário a facilitar na automação. 
 Para este exercício, recomenda-se:
 * Agendar uma reunião com o desenvolvedor
 * Simular o design do que é necessário para habilitar a automação de teste.
@@ -38,7 +37,7 @@ Com estas dicas o desenvolvedor e o engenheiro de automação podem codificar em
 
 Conhecendo este modelo de trabalho, a comunicação entre as equipes, o desenvolvedor e os automatizadores sobre os possíveis desvios, caso exista.
 
-2. Estrategia de Automação
+2. Estratégia de Automação
 Automatizar a interface do usuário, configuração, navegação e limpeza, que também precisam ser automatizadas.
 
 Para acelerar o tempo de desenvolvimento da automação, 
@@ -67,7 +66,7 @@ Verificar carrinho
 Automatizar isso é muito mais rápido (e menos propenso a erros) do que a primeira abordagem. Quanto menos código você precisar escrever, maior a probabilidade de concluir isso no sprint determinado.
 
 3. CONSTRUA INCREMENTALMENTE
-Quando uma nova página de interface do usuário é entregue, evite automatizar todos os elementos dessa página. Crie apenas o necessário para os testes a ser automatizados.
+Quando uma nova página de interface do usuário é entregue, evite automatizar todos os elementos desta página. Crie apenas o necessário para os testes a serem automatizados.
 
 Usando uma abordagem de desenvolvimento orientado a testes (TDD) pode ajudar a alternar entre as mentalidades do testador e do desenvolvedor.
 
@@ -78,5 +77,3 @@ Usando uma abordagem de desenvolvimento orientado a testes (TDD) pode ajudar a a
 
 UMA MELHOR DEFINIÇÃO DE "CONCLUÍDO" 'DONE'
 A definição de “concluído” é: Um conjunto de critérios que uma equipe de desenvolvimento de software concorda que deve ser concluído antes que um recurso possa ser considerado concluído.
-
-Ao utilizar as três técnicas acima, já é posivel adicionar com segurança “Cenários são automatizados” à sua definição de pronto. Mas cuidado para não tentar quantificar a porcentagem de cenários que devem ser automatizados. Novamente, o desejado é que a equipe se concentre em automatizar apenas o que é necessário para dar a todos os envolvidos a confiança de realmente concluir o recurso.
