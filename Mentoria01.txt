@@ -23,7 +23,6 @@ Walmyr Filho    (Automação) port
 Qual o ponto em sua trajetoria, que hoje, com sua experiencia, indicaria para não realizarou que realizaria de uma forma faz efetiva?
 
 --- --- ---
-
 BIOGRAFIA - ANGIE JONES   (Automação)
 
 Angie Jones é vice-presidente global de relações com desenvolvedores da TBD, a nova unidade de negócios da Block focada em tecnologias descentralizadas. Ela é uma professora premiada e palestrante internacional que compartilha sua riqueza de conhecimento em empresas de software e conferências em todo o mundo. Como Master Inventor, Angie é conhecida por seu estilo de pensamento inovador e pronto para uso, que resultou em mais de 25 invenções patenteadas nas áreas de metaversos, software de colaboração, redes sociais, planeta mais inteligente e processos de desenvolvimento de software.
@@ -72,8 +71,8 @@ REFERÊNCIA
 
 --
 Perguntas:
-Na estrategia da automação, no metodo ágil e com o tempo escaso, como aplicar as abordagem híbrida e a camada de serviços da pirâmide de automação, os conceitos são claros a ponto de aplica-los na pratica? Qual a analise a ser realizada em uma aplicação, exemplo, da loginha da mentoria?
+Na estratégia da automação, no método ágil e com o tempo escasso, como aplicar as abordagem híbrida e a camada de serviços da pirâmide de automação, os conceitos são claros a ponto de aplicá-los na prática? Qual a análise a ser realizada em uma aplicação, exemplo, da lojinha da mentoria?
 
-R: Abordagem híbrida: é Realizar a automação direto ao 'ponto' e algumus passos são desnecessarios, exemplo a exclusão de produtos, acessa-se direto a tela do carrinho e realiza a exclusão, não sendo necessario navegação como é realizada na Interface do Usuário(UI). 
+R: Abordagem híbrida: é Realizar a automação direto ao 'ponto' e alguns passos são desnecessários, exemplo a exclusão de produtos, acessa-se direto a tela do carrinho e realiza a exclusão, não sendo necessário navegação como é realizada na Interface do Usuário(UI). 
 
 Camada de serviços da pirâmide de automação: Na camada mais básica da pirâmide estão os testes unitários; na intermediária os testes de integração e no topo os testes de interface do usuário (UI) (https://www.primecontrol.com.br/piramide-de-teste-estrategia-de-automacao-de-testes-em-tres-niveis/)
