@@ -1,0 +1,12 @@
+Material de apoio ao módulo (aula 02)
+​​Abaixo você terá acesso a Lojinha Web em suas versões normal e bugada. 
+
+Faça login com os dados do usuário criado nas aulas do módulo de Testes de API Rest.
+
+Lojinha Web
+
+http://165.227.93.41/lojinha-web/v2
+
+Lojinha Web Bugada​​
+
+http://165.227.93.41/lojinha-web-bugada/v2

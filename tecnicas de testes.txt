@@ -1,0 +1,23 @@
+1 - Técnica de partição
+Usuário 
+	cadastrado / não cadastrado
+Senha
+	cadastrado / não cadastrado
+
+2 -Tecnica TABELA DE DECISÃO
+
+login lojinha
+Tipo |  Variaveis |  Partições | Casos de testes
+Entrada 
+	Usuário		UsuaCad
+			UsuaNCad
+	Senha 		SenCad
+			SenNCad
+Saída
+
+
+Técnica Heuristica
+1 -Salvar - Somente o valor do produto é obrigatório;
+2 -Salvar Componente - O campo QTDe do componente, não limita a qtde maxima; 
+3 -Salvar Componente -	Informa que foi salvo mas não carrega o componente com QTDe maxima;
+4 -Alterar - O produto salvo sem sem descrição não pode ser alterado;

@@ -1,0 +1,39 @@
+Postman 
+Usuario: jacq03 senha:1234
+
+http://165.227.93.41/lojinha-bugada/v2/
+1) Regra de negocio
+
+-Tela Adcionar Produto - Ao adcionar um produto, já cadastrado, e com o valor R$7000,00 é apresentado a mensagem erro422 "error": "O valor do produto deve estar entre R$ 0,01 e R$ 7.000,00".
+O esperado seria: Cadastrado com sucesso, pois o usuario não tem produtos em sua lista;
+
+2) Continuidade no fluxo
+
+- Ao adicionar um registro não esta informando o ProdutoID.
+
+3) Tipagem dos dados
+
+-Pesquisar esta com tipo valor recebendo string;
+
+4) Parametros(Campos obrigatórios conforme o swagger)
+
+-Busca não esta funcionando;
+
+5) Uso do token do usuário diferente
+
+- Alterei o usuário é ao verificar os produtos cadastrados é apresentado outros dados;
+
+6) Validação de metodos(put, post, get)
+
+7) Listagem de 0, listagem 1 e listagem de muitos
+
+8) Estrutura da resposta (conforme o swagger)
+- Ao adicionar um produto que contei um componente nome do tipo string, esta validando erro 400 e os campos:"error": "produtoNome, produtoValor e produtoCores são campos obrigatórios"
+
+9) Codigo de estado do http (conforme o swagger)
+
+10) Documentação dos contratos da API 
+
+
+
+

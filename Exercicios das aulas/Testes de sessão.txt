@@ -1,0 +1,40 @@
+Heuristica CHIQUE modulo 8
+Relatório
+
+1 - Chater
+2 - Hora de inicio (14:30)
+3 - Testador
+	Jacqueline
+4 - Divisão das tarefas
+    4.1 - Duração  (10 minutos)
+    4.2 - 70%execução, 5%investigação e 25%Configuração
+    4.3 - 100%Charter e 0%Oportunidade
+5 - Arquivo
+ - Bug1 - Produto sem nome.bng
+
+6 - Notas Gerais
+
+- Necessitei cadastrar um produto
+- Editar nome do produto (B1) não é obrigatório;
+- Testei a tela de produto sem a cor e salvol com sucesso
+
+7 - Bug
+B1 - Na lojinha ao editar o nome, apagando o registro a aplicação não tem mais acesso a edição para o produto;C - Campos obrigatórios
+- A edição do produto não tem o nome como campo obrigatório, apresenta mensagem de validação que foi editado com sucesso mas sem o nome;
+
+8 - Duvidas
+
+-Ao salvar o produto apos editar a sai da tela mas poderia ter parmanecido para facilitar o fluxo do usuario;
+
+- O campo Cores não são obrigatório?
+
+-Seria intereçante o nome do componente sendo obrigatorio dentro da mensagem de feedback, isso tb ocorre na tentativa de cadastrar o produto;
+
+Aplicação lojinha
+http://165.227.93.41/lojinha-web/v2/?error=Acesse%20a%20lojinha
+
+D1- O produto sem o nome na lista de produtos, não permite a edição, pois o nome é o link para a edição;
+
+D2- A Quebra de fluxo, copiando o link da aplicação e plando em outra aba, apos fechar o navegador, acessa a tela de edição sem a nescessidade de realizar o login novamente;
+
+D3- Ao editar o produto, com o nome com (200 caracters) e salvar o sistema apresenta mensagem de sucesso mas os dados apresentados são outros.

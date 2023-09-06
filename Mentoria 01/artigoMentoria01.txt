@@ -1,0 +1,79 @@
+Angie Jones     (Automação)
+- https://angiejones.tech/in-sprint-test-automation/
+
+3 MANEIRAS DE ALCANÇAR A AUTOMAÇÃO DE TESTE IN-SPRINT
+
+No planejamento da Sprint em 02 semanas, as equipes de desenvolvimento e testes, podem sair do planejado.
+
+Gerando risco e uma dívida técnica a longo prazo no projeto. Levando em conta os testes de regressão de outros recursos. Necessitando assim da tarefa dos testes automatizados, sendo aplicados na mesma sprint e não postergando para o backlog como algo a ser feito.
+
+A equipe trabalha sempre com um produto sem os teste de regressão consistente e os engenheiros de automação sempre trabalhando nas dívidas técnicas das sprints anteriores.
+
+Para se trabalhar com o tempo tão apertado temos três estratégias para ajudar a realizar a automação de testes e realizar os teste de regressão na sprint.
+
+1 - Colaboração de toda a equipe
+Os automatizadores devem colaborar com toda a equipe, de negócio, desenvolvedores e testadores.
+
+Negócio
+- Selecionar o que automatizar (Não deve automatizar tudo)
+
+Para garantir que está automatizando as coisas certas, algumas informações pode ajudar como: 
+* Quais clientes estão solicitando o recurso;
+* Como o recurso será usado;
+* Observar padrões úteis usados anteriores;
+
+Desenvolvedor
+- Compartilhar e orientá-los sobre a necessidade da automatização do teste  
+- Construção do código, APIs e identificadores de elementos da interface do usuário a facilitar na automação. 
+Para este exercício, recomenda-se:
+* Agendar uma reunião com o desenvolvedor
+* Simular o design do que é necessário para habilitar a automação de teste.
+
+Teste
+- Obterá uma visão mais ampla além do recurso que está sendo entregue
+- Criar cenários de integração mais críticos para os negócios
+
+Com estas dicas o desenvolvedor e o engenheiro de automação podem codificar em paralelo.
+
+Conhecendo este modelo de trabalho, a comunicação entre as equipes, o desenvolvedor e os automatizadores sobre os possíveis desvios, caso exista.
+
+2. Estratégia de Automação
+Automatizar a interface do usuário, configuração, navegação e limpeza, que também precisam ser automatizadas.
+
+Para acelerar o tempo de desenvolvimento da automação, 
+* Adote uma abordagem híbrida para automatizar os cenários. 
+* Determine quais dos seus cenários podem ser transferidos para a unidade ou camada de serviço da pirâmide de automação de teste. 
+* Use APIs e costuras de código para obter atalhos em seu aplicativo.
+
+---
+Por exemplo, dada a sua necessidade de automatizar um cenário para remover um produto de um carrinho de compras, há muitos pré-requisitos antes que você esteja realmente pronto para testar:
+
+1- Pesquise o produto
+2- Localize o produto nos resultados da pesquisa
+3- Clique no produto
+4- Clique no botão "Adicionar ao carrinho"
+5- Clique no ícone do carrinho
+6- Clique no botão "Remover" para o produto
+7- Verificar carrinho
+Automatizar as etapas 1 a 5 navegando na IU é desnecessário. Ao usar uma API para adicionar o produto ao carrinho, seu teste pode omitir as etapas 1 a 4. E ao iniciar o aplicativo diretamente na página do carrinho, a etapa 5 também pode ser omitida.
+
+O cenário automatizado agora se torna:
+
+Chame a API para adicionar o produto ao carrinho
+Iniciar a página do carrinho
+  Clique no botão "Remover" para o produto
+Verificar carrinho
+Automatizar isso é muito mais rápido (e menos propenso a erros) do que a primeira abordagem. Quanto menos código você precisar escrever, maior a probabilidade de concluir isso no sprint determinado.
+
+3. CONSTRUA INCREMENTALMENTE
+Quando uma nova página de interface do usuário é entregue, evite automatizar todos os elementos desta página. Crie apenas o necessário para os testes a serem automatizados.
+
+Usando uma abordagem de desenvolvimento orientado a testes (TDD) pode ajudar a alternar entre as mentalidades do testador e do desenvolvedor.
+
+- Construindo primeiramente os métodos que ainda não foram criados. 
+- Criar o teste que chama métodos que ainda não foram definidos e ao terminar pode escrever esses métodos para habilitar o teste.
+- Cuidado para não pular a automação de testes para recursos que ainda não estão prontos para serem testados. 
+
+
+UMA MELHOR DEFINIÇÃO DE "CONCLUÍDO" 'DONE'
+A definição de “concluído” é: Um conjunto de critérios que uma equipe de desenvolvimento de software concorda que deve ser concluído antes que um recurso possa ser considerado concluído.

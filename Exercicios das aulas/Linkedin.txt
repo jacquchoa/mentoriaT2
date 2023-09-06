@@ -1,0 +1,17 @@
+Sobre mim - linkedin
+Eu sou Analista de teste/QA a 10 anos. Trabalhei com os níveis de teste:
+Sistemico e API (REST), UI (Desktop, Web e Mobile) e Aceitação. Estou realizando uma monitoria que aborda varios pontos importantes para a qualidade de teste. Mentalidade, pontos positivos e negativos das metodologias Agil e Cascata. 
+
+Ferramentas que usei:
+Postman, Git/Github, Hudson, Tortoise SVN, TestLink e Jira, IBM Rational ClearQuest, TeamForge, Fractal Projetos e suporte, Teste de automação RFT (Rational Functional Tester).
+
+Estruturas e Metodologias:
+Scrum, Kanban e RUP. 
+
+---
+em cada empresa informar o que fiz a ser um QA melhor
+
+---
+Na Mentoria em Teste de Software com Julio de Lima
+
+Aplicando as necessidades do mercado e as tecnologias mais usadas (analisando seu pontos positivos e negativos) e como aplicar no dia-a-dia, conforme as necessidades da organização. Sempre buscando compartilhar conhecimento e qualidade no processo.

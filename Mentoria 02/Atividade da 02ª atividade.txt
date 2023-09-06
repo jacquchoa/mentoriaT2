@@ -1,0 +1,148 @@
+Dia 15/07/2023 - Mentoria do sábado
+
+ISO/IEC 25010 
+
+ * Grupo com 05 pessoas
+ * Escolher uma Caracteristica
+ * Escolher uma sub-Caracteristica;
+ 
+- Escrever um texto com 05 sessões
+ 1- Caracteristica escolhida;
+ 2- Descrever sobre a caracteristica;
+ 3- Nome da ferramenta;
+ 4- Passo a passo simples de como executar;
+ 5- Postar link para ajudar a entender a ferramenta;
+*Como foi a organização;
+
+para o dia 28/07/2023
+Email: suporte@juliodelima.com.br
+
+---***---***---***
+https://blog.onedaytesting.com.br/iso-iec-25010/
+
+A ISO/IEC 25010 é um padrão ISO para qualidade de software, disponibilizada em 2011, substituindo a ISO/IEC 9126. Ela descreve um modelo de qualidade de software.
+
+Essa arquitetura fornece a estrutura para especificar os requisitos de qualidade e avaliá-los.
+
+O modelo de qualidade de software da ISO/IEC 25010 é composto por oito atributos ou características. São elas:
+
+Adequação Funcional 
+Eficiência de performance
+Compatibilidade
+Usabilidade - https://useargo.com/teste-de-usabilidade/ 
+- https://www.youtube.com/watch?v=JLPTJ-d3KVg
+Confiabilidade - https://www.dotcom-monitor.com/blog/pt-br/principais-13-ferramentas-de-engenheiro-de-confiabilidade-do-site-sre/
+Segurança 
+Manutenibilidade
+Portabilidade
+
+--- --- ---
+**Adequação funcional - Essa característica envolve a capacidade do software de realizar o que ele se propõe a fazer. As subcaracterísticas são:
+Ferramenta (Funcional): Cypress, Selenium, Playwright
+
+*Integridade funcional: cobertura de todas as tarefas e objetivos;
+*Correção funcional: quão bem provê os resultados corretos quando preciso;
+*Adequação funcional: quão bem é capaz de realizar tarefas e objetivos específicos.
+
+**Eficiência de performance - performance do software relacionada à quantidade de recursos utilizados e possui as seguintes subdivisões:
+Ferramentas: JMeter, K6
+
+*Comportamento do tempo: tempo de resposta e processamento;
+*Uso de recursos: quantidade e tipos de recursos utilizados por um produto ou sistema;
+*Capacidade: limite máximo de um produto.
+
+**Compatibilidade - É a capacidade de um produto, sistema ou componente de trocar informações, assim como de realizar funções enquanto compartilha um hardware. São subcaracterísticas:
+Ferramentas: <SWAGGER-DIFF>
+
+*Coexistência: capacidade de realizar funções eficientemente enquanto compartilha um ambiente ou recursos com outros produtos;
+*Interoperabilidade: capacidade de dois ou mais sistemas, produtos ou componentes de trocar informações e as utilizarem.
+
+**Usabilidade - Trata-se da capacidade de um produto ou sistema de realizar objetivos eficientemente, efetivamente e de maneira satisfatória. As subcaracterísticas são as seguintes:
+Ferramentas: PowerMapper, Wave, Axe
+
+*Adequação reconhecível: capacidade de reconhecer se um produto ou sistema é apropriado para suas necessidades;
+*Capacidade de aprendizado: facilidade de aprender como utilizar o produto ou sistema;
+*Operabilidade: se um produto ou sistema possui atributos que facilitam seu uso e controle;
+*Proteção de erro do usuário: capacidade do produto proteger o usuário de erros;
+*Estética da interface de usuário: agradabilidade da interface;
+*Acessibilidade: capacidade de um produto ou sistema ser utilizado por pessoas com características e capacidades diversas.
+
+**Confiabilidade - Diz respeito a quão bem um produto realiza funções específicas sob condições específicas. Estas são as subcaracterísticas deste atributo da ISO/IEC 25010:
+Ferramentas: Gremlin, harness, Caros Monkey
+
+*Maturidade: capacidade do produto atingir as necessidades de confiabilidade;
+*Disponibilidade: se um sistema, produto ou componente está acessível e operante;
+*Tolerância a falhas: capacidade de um sistema, produto ou componente operar apesar de falhas de hardware e/ou software;
+*Recuperabilidade: capacidade de recuperar dados em uma possível falha ou interrupção.
+
+**Segurança - A capacidade de um produto ou sistema proteger informação e dados de vulnerabilidades é chamada de segurança, dentre as características da ISO/IEC 25010. As subdivisões são:
+Ferramentas: acunetix, fortify, zap
+
+*Confidencialidade – produto ou sistema é capaz de garantir que dados são acessados apenas por aqueles que têm acesso autorizado. 
+*Integridade – capacidade de prevenir acesso não-autorizado e modificação de dados ou programas de computador.
+*Ausência de repúdio – capacidade de provar que ações ou eventos aconteceram.
+*Rastreabilidade de uso – ações de usuários não autorizados devem ser ligados a eles.
+*Autenticidade – a identidade de um sujeito ou recurso pode ser provada.
+
+**Manutenibilidade - é a característica que engloba a capacidade de um produto ou sistema ser modificado, atualizado e adaptado às mudanças de ambiente e requerimentos. Abaixo, vamos ver as subcaracterísticas deste atributo.
+Ferramentas: Embold, Sonarqube, Codacy  (testabilidade)
+
+*Modularidade: programas ou sistemas podem sofrer mudanças sem impactar em outros componentes;
+*Reusabilidade: capacidade de um recurso poder ser utilizado em mais de um sistema;
+*Analisabilidade: capacidade de diagnosticar problemas ou causas de falhas, assim como partes a serem modificadas;
+*Modificabilidade: capacidade de um produto ou sistema ser modificado sem introduzir defeitos ou diminuir a qualidade atual;
+*Testabilidade: efetividade de testes para o sistema, produto ou componente.
+
+**Portabilidade - Esta característica é a capacidade de um sistema, produto ou componente de ser transferido de um ambiente para outro. As suas subcaracterísticas são:
+Ferramentas: BrowserStack, SaiceLabs, LambdaTest
+
+*Adaptabilidade: capacidade de um produto ou sistema de ser adaptado a um novo hardware, software ou outros ambientes;
+*Facilidade de instalação: capacidade de um produto ou sistema ser instalado ou desinstalado facilmente;
+*Capacidade de substituição: capacidade de ser trocado por outro produto similar. 
+
+
+identificar ferramenta de gestão logs ou monitoramento:
+logs, splunk e new relic
+
+troubleshooting-solução de problemas
+
+--- --- ---
+- Escrever um texto com 05 sessões
+ 1- Caracteristica escolhida; 
+Usabilidade
+ 2- Descrever sobre a caracteristica;
+Adequação reconhecível***
+ 3- Nome da ferramenta;
+Microsoft Clarity
+Analize de tempo real da pagina em forma de video
+Informado onde esta clicando, parando, retornando para analise conforme a utilização e onde esta dificultando o usuario finalizar o processo;
+
+ 4- Passo a passo simples de como executar;
+-Instalação: Acessar o https://clarity.microsoft.com/
+-Iscrever-se com o email;
+-Infromar alguns dados como nome, endereço do site e uma categoria;
+-Adcionar novo projeto;
+-Tela de configurações com algumas instruções;
+-Colar 'Código de acompanhamento do Clarity' no cabeçario (<head>) do site;
+Caminho caso tenho o WordPress para instalar o plugin:
+-No menu clicar em 'Pluns' com o botão direito do mouse e selecionar a opção 'Adicionar Novo' e pesquisar 'Clarity';
+A pesquisa retorna com o plugin 'Microsoft Clarity';
+Clicar em 'Instalar agora';
+Adicionar o código de acompanhamento;
+Na tela de plugin instalados clicar em 'Settings';
+-Colar o codigo disponivel no campo 'Código de acompanhamento do Clarity' da tela de configurações;
+-Clicar em Salvar alteração;
+-Aguarda o traquiamento da pagina assim já é possivel acompanhar em produção o mapeamento dos 'pontos quentes' e dos arquivos de video gerados. Assim sendo possivel analisar o fluxos de acesso da aplicação.
+
+ 5- Postar link para ajudar a entender a ferramenta;
+*Como foi a organização;
+Criado individualmente.
+
+Com foco na Usabilidade encontrei esta ferramenta 'Clarity' ela é gratuita. Com o objetivo de:
+ *Adequação reconhecível: capacidade de reconhecer se um produto ou sistema é apropriado para suas necessidades;
+Esta ferramenta gera 'vídeos' onde identifica os pontos mais clicados no site. Ajudando mapear e a realizar uma organização no site. Analisando a interação do usuário no site.
+
+Video para ajudar a entender: https://www.youtube.com/watch?v=JLPTJ-d3KVg
+
+Jmeter - https://www.youtube.com/watch?v=IEm3UCfUn2s
+K6 tutorial em portugues

@@ -1,0 +1,72 @@
+Construir um mapa de testes de software de uma empresa
+* 10 Atividades de testes de software;
+	* Vermelho - nenhum do time faz;
+	* Amarelo - alguns do time faz;
+	* Verde - Todos os times fazem;
+* Atividades
+ - Funcionais - Tecnicas
+	Tabela do valor limite;
+	Tabela de decisão;
+	Exploratório ADHOC;
+	Exploratório baseado em hipóteses;
+	Exploratório baseado em seção;
+	Histórico de falhas;
+	Identificar e priorizar fatores de risco;
+	Teste pairando com o desenvolvedor (codigo fonte);
+	Cobertura de sentença;
+	Testes em API;
+	Testes de aceitação do usuário;
+
+ - Não funcionais
+	Eficiência de performance
+	Compatibilidade
+	Usabilidade
+	Confiabilidade
+	Segurança 
+	Manutenibilidade
+	Portabilidade
+
+ - Automatizados
+	WebDriver
+	Cypress
+	Robot Framework
+	Postman
+ 
+--- --- --- Outros(Kely)
+	-Revisão de requisitos ou estórias de usuário
+	-Participacão em cerimônias do Scrum (planejamento, daily, revisão e retrospectiva)
+	-Registro de defeitos
+	-Gerenciamento de defeitos
+	-Testes de regressão
+	-Testes de confirmação
+	-Treinamento de novos testadores
+	-Relatório de defeitos
+	-Testes de aceitação do usuário
+
+--- --- --- Vitor
+- Tabela do valor limite
+- Teste de regressão 
+- Exploratório baseado em hipótese
+- Uso de mocks em testes
+- Testes em APIs
+- Testes de performance
+- Automação de testes de API
+- QA participa do refinamento
+- Tabela valor limite 
+- Relatório de defeitos- Tabela valor limite 
+- Relatório de defeitos
+
+---
+trabalho 
+Uso de mocks em testes 
+Treinamento de novos testadores
+Identificar e priorizar fatores de risco
+Segurança
+*testes automatizados em API
+testes de performance
+
+-- --- -- 
+Mais um desafio realizado da mentoria com Júlio de Lima. Nos fazendo refletir sobre as atividades de Testes de software. 
+Depois de algumas semanas, diariamente aprendendo, revisando e compartilhando experiências sobre esta área tão ampla e cheias de desafios e oportunidades. Esse desafio, nos fez parar e aplicar o que vinhamos estudando, limitando com apenas 10 atividades do teste de software, aplicando em uma empresa e informando a sua aplicação. 
+Mais uma vez, amei realizar essa atividade com profissionais fantaticos, obrigada pela experiencia Vitor Filetto, @marcolourenco, 
+

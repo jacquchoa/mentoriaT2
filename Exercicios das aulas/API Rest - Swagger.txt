@@ -1,0 +1,15 @@
+Módulo 9 aula 7
+​Lojinha API V2 & Swagger
+
+1) Arquivo do Swagger da API V2 https://editor.swagger.io/)
+
+1.1) Swagger da lojinha
+http://165.227.93.41/lojinha/lojinha-v2.yml
+
+1.2) Copie todo o conteúdo do arquivo
+
+1.3) Abra o Swagger Editor através do link https://editor.swagger.io/)
+
+1.4) Substitua todo o texto existente na caixa a esquerda pelo texto que você copiou do arquivo lojinha-v2.yml
+
+1.5) Pronto, agora você vai conseguir ver a direita o Swagger da Lojinha

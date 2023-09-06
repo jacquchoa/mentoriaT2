@@ -1,0 +1,9 @@
+Informações importante para criação do caso de uso #2-Edição do produto
+
+- Testar variação do valor do produto para edição do produto
+- ao informar o valor o valor (zero), apresente uma mensagem informando que não pode ser R$ 0,00
+- rodar no chrome 
+- tenha produto 
+- tenha usuario valido
+- teste com cenario que não ocorre com frequencia 
+- probabilidade pequena

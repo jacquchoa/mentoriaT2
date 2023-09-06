@@ -1,0 +1,60 @@
+Caso de Teste
+
+1) Itens de cobertura de teste
+
+Identificador único
+
+#19957
+
+Descrição
+
+- Realizar a edição do produto na lojinha 
+
+Prioridade
+
+- Alta
+
+Rastreabilidade
+
+- Caso de Uso #2
+
+2) Casos de Teste
+
+Identificador único
+
+- #1
+
+Objetivo
+
+- Validar se a aplicação apresenta uma mensagem de erro se o valor do produto é ZERO(0,00) na edição
+
+Prioridade
+
+- Baixa
+
+Rastreabilidade
+
+- Caso de Uso #2
+
+Condições prévias
+
+- Credenciais do Usuário já cadastrado
+- Produto já cadastrado (ID #59)
+
+Entradas
+
+Usuário
+- Usuário: julio-senha-expirada@julio.com.br
+- Senha: 123456
+
+Produto
+- Produto: 59
+- Valor Zero (R$ 0,00)
+
+Resultados esperados
+
+- Ver uma mensagem informando que o valor não pode ser igual a zero(0,00)
+
+Resultados atuais e resultado do teste
+
+- N/A
